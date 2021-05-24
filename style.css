@@ -1,0 +1,75 @@
+body {
+    background-image: url("architecture-building-exterior-geometric-593158.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+body {
+    background-attachment: fixed;
+}
+
+select {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(194, 189, 168);
+}
+
+form {
+    position: relative;
+    padding-top: 100px;
+}
+
+form {
+    margin: 200px;
+    background-size: 500px;
+}
+
+form {
+    background-color: white;
+}
+
+form {
+    border-width: 5px;
+    border-style: outset
+}
+
+#b {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#jumbo {
+    height: 500px;
+    align-items: center;
+    background-color: rgba(59, 59, 59, 0.616);
+    text-align: center;
+    text-align-last: auto;
+    text-shadow: khaki;
+}
+
+.jumbo2 {
+    align-items: center;
+    background-color: rgba(59, 59, 59, 0.616);
+    text-align: center;
+    text-align-last: auto;
+    text-shadow: rgb(80, 80, 80);
+    margin-top: 134px;
+    position: relative;
+    ;
+    background-size: cover;
+}
+
+#tcon {
+    text-align: center;
+    text-align: center;
+    text-align-last: auto;
+    align-items: center;
+    color: white
+}
+
+#tci {
+    margin-top: 310px;
+    color: white
+}
